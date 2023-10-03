@@ -1,4 +1,4 @@
-![Instagram post - 10](https://github.com/Amaechina-Ikechukwu/Amaechina-Ikechukwu/assets/66841259/db81018e-1df2-4a85-96fc-fff481387b22)[Uploading Instagram post - 10.png…]()
+![Instagram post - 10](https://github.com/Amaechina-Ikechukwu/Amaechina-Ikechukwu/assets/66841259/db81018e-1df2-4a85-96fc-fff481387b22)()
 Greetings,
 
 I am Amaechina-Ikechukwu, a seasoned Full Stack Developer. While I could delve into the cliché notion of how software development is my passion, I believe that passion should manifest itself through actions and not mere words.
