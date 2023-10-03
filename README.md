@@ -20,13 +20,15 @@ A platform that onboards upcoming developers and provides a platform where they 
 ⚜ KingBaby- Saas Platform
 An all in one platform to help individuals who run ads on various social platforms to weather the noise and distraction, get insights and metrics and possible tips on improvement.
 
+⚜ ChatBots
+I have provisioned chatbots on Telegram, Messenger, Instagram and Whatsapp for individuals and businesses
 For any inquiries or to connect with me, please feel free to reach out via email at amaechinaikechukwu6@gmail.com.
 
 Best regards,
 Amaechina-Ikechukwu
 
 Languages and Tools 💠:
-https://code.visualstudio.com 
+![VS Code Logo]https://code.visualstudio.com 
 <!---
 Amaechina-Ikechukwu/Amaechina-Ikechukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
