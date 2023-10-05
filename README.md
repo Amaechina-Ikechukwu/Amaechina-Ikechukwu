@@ -18,7 +18,7 @@ A service that enables new admitted university students to find that coursemates
 ## ⚜ Lio - Saas Platform (Web, Native App, Backend)
 A platform that onboards upcoming developers and provides a platform where they can post they projects. Then they are provisioned website link which their projects and profile are shown.
 
-## ⚜ KingBaby- Saas Platform
+## ⚜ Valid- Saas Platform
 An all in one platform to help individuals who run ads on various social platforms to weather the noise and distraction, get insights and metrics and possible tips on improvement.
 
 ## ⚜ ChatBots
