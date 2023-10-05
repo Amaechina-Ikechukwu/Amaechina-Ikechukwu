@@ -10,7 +10,7 @@ Currently, I am dedicated to expanding my knowledge by delving into the realm of
 
 I am enthusiastic about collaborating on projects with a direct impact on lives or are backed by invention or innovation.
 
-NOTABLE PROJECTS
+## NOTABLE PROJECTS
 
 ## ⚜ Knwl App- React Native App
 A service that enables new admitted university students to find that coursemates easily and share information and resource quickly without having to do the grunt work of asking and collecting numbers.
