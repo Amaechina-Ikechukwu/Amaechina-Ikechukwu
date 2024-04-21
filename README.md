@@ -2,11 +2,11 @@
 ## Amaechina Ikechukwu || Full Stack Developer (All Things Javascript and More)
 Greetings,
 
-I am Amaechina-Ikechukwu, a seasoned Full Stack Developer. While I could delve into the cliché notion of how software development is my passion, I believe that passion should manifest itself through actions and not mere words.
+I am Amaechina-Ikechukwu, a seasoned Full Stack Developer. While I could rant about the cliché notion of how software development is my passion, I believe that passion should manifest itself through actions and not mere words.
 
 Over the years, I have amassed a wealth of experience in constructing Web Applications utilizing various React Frameworks, designing Restful APIs, and implementing Webhooks using Express Js, all while relying on Firebase and Supabase as my database solutions. My approach involves maximizing limited resources to achieve remarkable outcomes. As an illustration, I managed to create webhooks on Render without incurring any costs, contrary to the common belief that Firebase or AWS subscriptions are necessary.
 
-Currently, I am dedicated to expanding my knowledge by delving into the realm of user interface design principles, with a particular focus on suggesting user actions.
+Currently, I am dedicated to expanding my knowledge in the realm of user interface design principles, with a particular focus on suggesting user actions.
 
 I am enthusiastic about collaborating on projects with a direct impact on lives or are backed by invention or innovation.
 
